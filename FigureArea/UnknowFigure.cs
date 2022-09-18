@@ -12,9 +12,15 @@ namespace FigureArea
 {
     public class UnknowFigure : Figure
     {
+        /// <summary>
+        /// Многоугольник
+        /// </summary>
+        /// /// <param name="vector">Список, содержащий вершины многоугольника</param>
         List<double> vector=new List<double>();
         public UnknowFigure(List<double> points)
         {
+            if(vector.Count()%2 !=0)
+                throw new ArgumentException("Введены неверные координаты многоугольника");
             foreach (var point in points)
             {
                 vector.Add(point);
