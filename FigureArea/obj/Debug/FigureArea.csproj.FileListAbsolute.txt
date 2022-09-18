@@ -1,0 +1,6 @@
+D:\MyVISUALSTUDIO\FigureArea\FigureArea\bin\Debug\FigureArea.dll
+D:\MyVISUALSTUDIO\FigureArea\FigureArea\bin\Debug\FigureArea.pdb
+D:\MyVISUALSTUDIO\FigureArea\FigureArea\obj\Debug\FigureArea.csproj.AssemblyReference.cache
+D:\MyVISUALSTUDIO\FigureArea\FigureArea\obj\Debug\FigureArea.csproj.CoreCompileInputs.cache
+D:\MyVISUALSTUDIO\FigureArea\FigureArea\obj\Debug\FigureArea.dll
+D:\MyVISUALSTUDIO\FigureArea\FigureArea\obj\Debug\FigureArea.pdb
